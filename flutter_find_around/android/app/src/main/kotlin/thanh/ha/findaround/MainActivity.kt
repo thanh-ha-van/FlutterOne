@@ -1,4 +1,4 @@
-package thanh.ha.flutterapp
+package thanh.ha.findaround
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

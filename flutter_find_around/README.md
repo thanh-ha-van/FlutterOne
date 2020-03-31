@@ -1,4 +1,4 @@
-# flutterapp
+# findaround
 
 A new Flutter application.
 
